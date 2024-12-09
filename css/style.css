@@ -94,11 +94,6 @@ ul{
     border-left: 2px solid #333;
   }
 
- .info {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-  } 
 
 /*contenu de chaque élément*/
 .card{
@@ -128,8 +123,8 @@ ul{
 }
 
 .list-timeline li{
-    margin : 10px;
-    padding: 10px;
+    margin : 5px;
+    padding: 5px;
 
 
 }
