@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /*reset */
+        *{
+            padding:0;
+            margin:0;
+            border:none;
+            box-sizing: border-box /*inclu la taille des padding et margin pour éviter les dépassements de taille*/
+        }
+        .container{
+            display: flex;
+            flex-direction:row;
+            border: solid 1px red;
+        }
+        #gauche, #droite{
+            width:50%;
+            height:500px;
+            border: solid 1px red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="gauche">gauche</div>
+        <div id="droite">droite</div>
+    </div>
+    
+</body>
+</html>
