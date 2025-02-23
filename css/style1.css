@@ -13,7 +13,7 @@ body {
 
 /* Header */
 .header {
-    background-color: #d8305b;
+    background-color: #70ABAF;
     padding: 20px;
     text-align: center;
 }
@@ -41,7 +41,7 @@ nav {
 
 /* Hero Section */
 .hero {
-    background: #e9b388;
+    background: #00171F;
     color: #fff;
     padding: 60px 20px;
     text-align: center;
@@ -59,7 +59,7 @@ nav {
 
 .hero-button {
     background-color: #fff;
-    color: #e9b388;
+    color: #302F4D;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -68,7 +68,7 @@ nav {
 }
 
 .hero-button:hover {
-    background-color: #e9b388;
+    background-color: #bdc3c7;
     color: #fff;
 }
 
@@ -114,7 +114,7 @@ nav {
 
 .project-description {
     font-size: 1rem;
-    color: #e2b466;
+    color: #00171F;
 }
 
 /*Timeline*/
@@ -129,7 +129,7 @@ nav {
     content: '';
     position: absolute;
     width: 3px;
-    background-color: #d8305b;
+    background-color: #70ABAF;
     top: 0;
     bottom: 0;
     left: 50%;
@@ -155,7 +155,7 @@ nav {
     position: absolute;
     width: 10px;
     height: 10px;
-    background-color: #d8305b;
+    background-color: #70ABAF;
     border-radius: 50%;
     top: 20px;
     z-index: 1;
@@ -178,12 +178,12 @@ nav {
 
 .timeline-content h4 {
     margin: 0;
-    color: #d8305b;
+    color: #70ABAF;
 }
 
 .date {
     font-size: 0.9em;
-    color: #e9b388;
+    color: gray;
     font-style: italic;
 }
 
@@ -212,7 +212,7 @@ nav {
 
 .form-button {
     padding: 12px 20px;
-    background-color: #d8305b;
+    background-color: #00171F;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -221,12 +221,12 @@ nav {
 }
 
 .form-button:hover {
-    background-color: #d8305b;
+    background-color: #bdc3c7;
 }
 
 /* Footer */
 .footer {
-    background-color: #d8305b;
+    background-color: #00171F;
     color: #fff;
     padding: 15px;
     text-align: center;
